@@ -1,6 +1,6 @@
 # Text-Blob
 
-<img src="https://github.com/petergeorge649/Text-Blob/blob/main/png/eight_sampled.png" width=50% height=50%> 
+<img src="https://github.com/petergeorge649/Text-Blob/blob/main/png/eight_sampled.png" width=100% height=100%> 
 
 ### ‣Welcome ###
 
