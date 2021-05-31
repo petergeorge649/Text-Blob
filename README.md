@@ -1,7 +1,6 @@
 # Text-Blob
 
-
-![alt text](<img src="Ihttps://github.com/petergeorge649/Text-Blob/blob/main/png/eight_sampled.png" width="100" height="100"/>)
+<img src="Ihttps://github.com/petergeorge649/Text-Blob/blob/main/png/eight_sampled.png" width="100" height="100"/>
 
 ### ‣Welcome ###
 
