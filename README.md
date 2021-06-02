@@ -42,22 +42,22 @@ Positive Integer documenting the number of other customers who found this review
 
 Categorical name of the product high level division. Department Name: Categorical name of the product department name. Class Name: Categorical name of the product class name.
 
-### Rated 5 top words ###
+### Rated 5/top words ###
 
 <img src="https://github.com/petergeorge649/Text-Blob/blob/main/png/5%20rated.png" width=100% height=100%> 
 
-### Rated 4 top words ###
+### Rated 4/top words ###
 
 <img src="https://github.com/petergeorge649/Text-Blob/blob/main/png/4%20rated.png" width=100% height=100%> 
 
-### Rated 3 top words ###
+### Rated 3/top words ###
 
 <img src="https://github.com/petergeorge649/Text-Blob/blob/main/png/3%20rated.png" width=100% height=100%> 
 
-### Rated 2 top words ###
+### Rated 2/top words ###
 
 <img src="https://github.com/petergeorge649/Text-Blob/blob/main/png/2%20rated.png" width=100% height=100%> 
 
-### Rated 1 top words ###
+### Rated 1/top words ###
 
 <img src="https://github.com/petergeorge649/Text-Blob/blob/main/png/1%20rated.png" width=100% height=100%> 
